@@ -21,4 +21,3 @@ https://youtu.be/_2iQOQiCzOM
 SDE Sheet Link
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
 
-StriversSheetChallenge/README.md at main · priyansh70/StriversSheetChallenge · GitHub 
